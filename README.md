@@ -126,7 +126,7 @@ forge script script/Deploy.s.sol --rpc-url $RPC_URL --broadcast --legacy
 | Network | Address |
 |---------|---------|
 | Testnet | `0x22c5622378fb8E9AB52EA0b00cAce94474829df3` |
-| Mainnet | TBD |
+| Mainnet (chain ID 1916) | `0xD0793a2a11Fa3600Ec941115937FB8E259cfdbf1` |
 
 ## License
 
